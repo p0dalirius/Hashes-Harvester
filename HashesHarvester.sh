@@ -41,13 +41,7 @@ extract_ntlm_hashes() {
 }
 
 header() {
-    echo ""
-    echo "  _  _ _____ _    __  __  "
-    echo " | \\| |_   _| |  |  \\/  |  Extracter"
-    echo " | .\` | | | | |__| |\\/| | "
-    echo " |_|\\_| |_| |____|_|  |_|  (Based on volatility)"
-    echo "                          "
-    echo "Automatically extracts NTLM hashes from Windows memory dumps."
+    echo "Hashes-Harvester: Automatically extracts hashes from Windows memory dumps."
 }
 
 usage() {
