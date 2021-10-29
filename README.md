@@ -1,17 +1,16 @@
-# volatility-ntlm-extractor
+# Hashes-Harvester
 
 Automatically extracts NTLM hashes from Windows memory dumps.
 
-![](./ntlm_extract_example.png)
+![](./.github/example.png)
 
 ## Usage
 
 ```
-  _  _ _____ _    __  __  
- | \| |_   _| |  |  \/  |  Extracter
- | .` | | | | |__| |\/| |
- |_|\_| |_| |____|_|  |_|  (Based on volatility)
-
-Automatically extracts NTLM hashes from Windows memory dumps.
+Hashes-Harvester: Automatically extracts NTLM hashes from Windows memory dumps.
 Usage : winpass.sh MEMORYFILE
 ```
+
+## Contributing
+
+Pull requests are welcome. Feel free to open an issue if you want to add other features.
