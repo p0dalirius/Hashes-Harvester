@@ -1,7 +1,7 @@
 # Hashes-Harvester
 
 <p align="center">
-    Automatically extracts NTLM hashes from Windows memory dumps.
+    Automatically extracts NT and LM hashes from Windows memory dumps based on volatility.
     <br>
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/p0dalirius/Hashes-Harvester">
     <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
@@ -14,7 +14,7 @@
 ## Usage
 
 ```
-Hashes-Harvester: Automatically extracts NTLM hashes from Windows memory dumps.
+Hashes-Harvester: Automatically extracts NT and LM hashes from Windows memory dumps based on volatility.
 Usage : winpass.sh MEMORYFILE
 ```
 
