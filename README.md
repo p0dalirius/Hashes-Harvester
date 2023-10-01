@@ -1,4 +1,4 @@
-# Hashes-Harvester
+![](./.github/banner.png)
 
 <p align="center">
     Automatically extracts NT and LM hashes from Windows memory dumps based on volatility.
